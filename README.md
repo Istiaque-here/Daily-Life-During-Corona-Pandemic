@@ -1,7 +1,3 @@
-## Overview  
-This **C-based console application** integrates multiple functionalities, providing users with tools for  
-**health diagnostics, news updates, entertainment, physics & math calculations, and unit conversions.**
-
 ## Features  
 
 ### User Authentication  
