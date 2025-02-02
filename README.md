@@ -35,4 +35,4 @@ This **C-based console application** integrates multiple functionalities, provid
 ## Technologies Used  
 - **Language:** C  
 - **Standard Libraries:** `stdio.h`, `math.h`, `stdlib.h`, `string.h`
-- **IDE: Codeblocks**
+- **IDE:** Codeblocks
